@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu_8;
 
 public class DoubleInt {
 

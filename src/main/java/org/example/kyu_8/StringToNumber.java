@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu_8;
 
 public class StringToNumber {
     public static void main(String[] args) {

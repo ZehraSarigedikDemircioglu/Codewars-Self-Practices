@@ -1,4 +1,4 @@
-package org.example;
+package org.example.kyu_8;
 
 public class BooleanToString {
     public static void main(String[] args) {
