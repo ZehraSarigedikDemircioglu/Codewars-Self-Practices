@@ -24,3 +24,7 @@ public class MinimizeSumOfArray {
         return result;
     }
 }
+/*
+Given an array of integers, Find the minimum sum which is obtained from summing each Two integers product.
+The minimum sum obtained from summing each two integers product ,  5*2 + 3*4 = 22
+ */
